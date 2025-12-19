@@ -1,3 +1,5 @@
+// started the c++ code and understanding basic code str.
+
 #include<iostream> // IO - Input/Output 
 
 int main(){

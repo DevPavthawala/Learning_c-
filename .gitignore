@@ -1,0 +1,6 @@
+# Ignore compiled artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb

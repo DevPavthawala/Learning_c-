@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// USING ARRAYS INSIDE
 class shop
 {
     int itemId[100];
@@ -8,7 +9,7 @@ class shop
     int counter;
 
 public:
-    void initcounter(void) { counter = 0; }
+    void initcounter(void) { counter = 0; } // initally it has garbage value 
     void displayprice(void);
     void setprice(void);
 };
